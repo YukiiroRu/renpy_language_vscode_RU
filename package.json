@@ -69,15 +69,15 @@
     "commands": [
       {
         "command": "renpy.refreshNavigationData",
-        "title": "Обновление Навигационных Данных Ren'Py."
+        "title": "Обновление навигационных Данных Ren'Py."
       },
       {
         "command": "renpy.compileNavigationData",
-        "title": "Compile Ren'Py Navigation Data"
+        "title": "Компиляция навигационных данных Ren'Py."
       },
       {
         "command": "renpy.refreshDiagnostics",
-        "title": "Refresh Ren'Py diagnostics for the active editor window"
+        "title": "Refresh Ren'P"
       }
     ],
     "configuration": [
