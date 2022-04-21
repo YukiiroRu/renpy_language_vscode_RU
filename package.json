@@ -97,7 +97,7 @@
           "renpy.showAutomaticImagesInCompletion": {
             "type": "boolean",
             "default": true,
-            "description": "Show Automatic Images in the displayable auto-completion list. If not checked (false), only images defined in the script will be shown. If checked (true), both script-defined images and images detected in the images folders will be shown."
+            "description": "Показывать автоматические изображения в отображаемом списке автозаполнения. Если флажок не установлен (false), будут показаны только изображения, определенные в скрипте. Если установлен флажок (true), будут показаны как изображения, определенные сценарием, так и изображения, обнаруженные в папках изображений."
           },
           "renpy.warnOnObsoleteMethods": {
             "type": "boolean",
