@@ -1,8 +1,8 @@
-# Способствующий
+# Способствующий.
 
 :sparkles: Добро пожаловать и благодарю вас за ваш интерес к участию! :sparkles:
 
-Please note we have a [code of conduct](https://github.com/YukiiroRu/renpy_language_vscode_RU/blob/main/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
+Пожалуйста, обратите внимание, что у нас есть [code of conduct](https://github.com/YukiiroRu/renpy_language_vscode_RU/blob/main/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
 
 ## Reporting bugs or proposing features
 
