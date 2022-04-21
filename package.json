@@ -69,7 +69,7 @@
     "commands": [
       {
         "command": "renpy.refreshNavigationData",
-        "title": "Refresh Ren'Py Navigation Data"
+        "title": "Обновление Навигационных Данных Ren'Py."
       },
       {
         "command": "renpy.compileNavigationData",
