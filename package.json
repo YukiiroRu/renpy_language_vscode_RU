@@ -102,7 +102,7 @@
           "renpy.warnOnObsoleteMethods": {
             "type": "boolean",
             "default": true,
-            "description": "Enable obsolete method warnings. If checked (true), obsolete methods (e.g., im.Crop) will be marked with a warning in the editor."
+            "description": "Включить предупреждения об устаревших методах. Если установлен флажок (true), устаревшие методы (например, im.Crop) будут отмечены предупреждением в редакторе."
           },
           "renpy.warnOnUndefinedPersistents": {
             "type": "boolean",
