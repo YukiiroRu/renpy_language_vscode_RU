@@ -162,7 +162,7 @@
               "Display filename issues as warnings",
               "Ignore filename issues"
             ],
-            "description": "Enable filename checks. Filenames must begin with a letter or number, and may not begin with '00', as Ren'Py uses such files for its own purposes. If set to Error or Warning, documents will be marked in the editor if the document filename does not meet Ren'Py's specifications. If set to Disabled, filename issues will be ignored."
+            "description": "Включите проверку имени файла. Имена файлов должны начинаться с буквы или цифры и не могут начинаться с '00', поскольку Ren'Py использует такие файлы в своих собственных целях. Если установлено значение Ошибка или предупреждение, документы будут помечены в редакторе, если имя файла документа не соответствует спецификациям Ren'Py. Если установлено значение Отключено, проблемы с именем файла будут игнорироваться."
           }
         }
       }
