@@ -5,10 +5,10 @@
   "version": "1.4.22",
   "publisher": "YukiiroRu",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/YukiiroRu/renpy_language_vscode_RU",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LuqueDaniel/vscode-language-renpy"
+    "url": "https://github.com/YukiiroRu/renpy_language_vscode_RU"
   },
   "bugs": {
     "url": "https://github.com/LuqueDaniel/vscode-language-renpy/issues"
