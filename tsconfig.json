@@ -13,7 +13,7 @@
         /* Дополнительные проверки. */
         "noUnusedLocals": true /* Сообщать об ошибках, в неиспользуемых локальных сетях. */
         // "noImplicitReturns": true, /* Сообщить об ошибке, когда не все пути кода в функции возвращают значение. */
-        // "noFallthroughCasesInSwitch": true, /* Report errors for fallthrough cases in switch statement. */
+        // "noFallthroughCasesInSwitch": true, /* Сообщайте об ошибках, для аварийных случаев в инструкции switch. */
         // "noUnusedParameters": true,  /* Report errors on unused parameters. */
     },
     "exclude": [
