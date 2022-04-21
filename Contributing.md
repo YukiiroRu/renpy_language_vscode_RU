@@ -8,7 +8,7 @@ Please note we have a [code of conduct](https://github.com/YukiiroRu/renpy_langu
 
 Open a new issue for each bug or feature you want to propose.
 
-1. Before reporting a bug :mag: **[check](https://github.com/LuqueDaniel/vscode-language-renpy/issues)** if it has
+1. Before reporting a bug :mag: **[check](https://github.com/YukiiroRu/renpy_language_vscode_RU/issues)** if it has
    already been reported.
 2. Specify steps to reproduce.
 
