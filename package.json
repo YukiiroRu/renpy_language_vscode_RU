@@ -1,7 +1,7 @@
 {
   "name": "languague-renpy",
   "displayName": "Ren'Py Language",
-  "description": "Adds rich support for the Ren'Py programming language to Visual Studio Code.",
+  "description": "Добавляет расширенную поддержку языка программирования Ren'Py в код Visual Studio."
   "version": "1.4.22",
   "publisher": "LuqueDaniel",
   "license": "MIT",
