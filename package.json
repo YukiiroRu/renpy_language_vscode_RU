@@ -147,7 +147,7 @@
               "Display indentation issues as warnings",
               "Ignore indentation issues"
             ],
-            "description": "Enable indentation and inconsistent spacing checks. If set to Error or Warning, tab characters and inconsistent indentation spacing will be marked in the editor. If set to Disabled, indentation issues will be ignored."
+            "description": "Включите проверку отступов и несогласованных интервалов. Если установлено значение Ошибка или предупреждение, в редакторе будут отмечены символы табуляции и несоответствующие интервалы между отступами. Если установлено значение Отключено, проблемы с отступами будут игнорироваться."
           },
           "renpy.warnOnInvalidFilenameIssues": {
             "type": "string",
