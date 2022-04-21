@@ -87,7 +87,7 @@
           "renpy.excludeRpycFilesFromWorkspace": {
             "type": "boolean",
             "default": true,
-            "description": "Exclude *.rpyc (compiled Ren'Py script) files from the workspace folder list. (This will add a .vscode settings file to your workspace.)"
+            "description": "Исключите файлы *.rpyc (скомпилированный сценарий Ren'Py) из списка папок рабочей области. (Это добавит файл настроек .vscode в вашу рабочую область.)"
           },
           "renpy.watchFoldersForChanges": {
             "type": "boolean",
