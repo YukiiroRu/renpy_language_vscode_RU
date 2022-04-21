@@ -8,8 +8,8 @@
 
 Откройте новую проблему для каждой ошибки или функции, которые вы хотите предложить.
 
-1. Before reporting a bug :mag: **[check](https://github.com/YukiiroRu/renpy_language_vscode_RU/issues)** if it has
-   already been reported.
+1. Прежде чем сообщить об ошибке :mag: **[проверить](https://github.com/YukiiroRu/renpy_language_vscode_RU/issues )** если у него есть
+   
 2. Specify steps to reproduce.
 
 ## Pull Request Process
