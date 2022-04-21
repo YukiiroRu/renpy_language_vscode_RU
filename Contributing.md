@@ -12,6 +12,6 @@
    уже решение.
 2. Укажите шаги для воспроизведения.
 
-## 
+## Процесс запроса на извлечение.
 
 If you want to add new features, please make sure to discuss it in an issue.
