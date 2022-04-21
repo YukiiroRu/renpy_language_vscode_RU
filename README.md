@@ -1,8 +1,8 @@
-​<a id="anchor"></a>
+<a id="anchor"></a>
 
 ### Язык Ren'Py для редактора Visual Studio Code.
 
- ![​renpy-logo](https://github.com/YukiiroRu/Miracle_in_the_form/blob/main/dev_files/logo%20base.png)
+ ![renpy-logo](https://github.com/YukiiroRu/Miracle_in_the_form/blob/main/dev_files/logo%20base.png)
 
 Добавляет подсветку синтаксиса и фрагменты кода для [Ren'Py](https://www.renpy.org/) в редактор.
 
