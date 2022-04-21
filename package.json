@@ -132,7 +132,7 @@
               "Display invalid variable name issues as warnings",
               "Ignore invalid variable name issues"
             ],
-            "description": "Enable invalid variable warnings. Variables must begin with a letter or number. They may contain a '_' but may not begin with '_'. If set to Warning or Error, variables will be flagged in the editor if they do not meet Ren'Py's specifications."
+            "description": "Включить предупреждения о недопустимых переменных. Переменные должны начинаться с буквы или цифры. Они могут содержать "_", но могут не начинаться с "_". Если установлено значение предупреждение или ошибка, переменные будут помечены в редакторе, если они не соответствуют спецификациям Ren'Py."
           },
           "renpy.warnOnIndentationAndSpacingIssues": {
             "type": "string",
