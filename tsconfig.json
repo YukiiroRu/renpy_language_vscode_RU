@@ -11,7 +11,7 @@
         /* Опция Строгой Проверки Типов. */
         "strict": true, /* Включить все параметры строгой проверки типов. */
         /* Дополнительные проверки. */
-        "noUnusedLocals": true /* Сообщать об ошибках в неиспользуемых локальных сетях. */
+        "noUnusedLocals": true /* Сообщать об ошибках, в неиспользуемых локальных сетях. */
         // "noImplicitReturns": true, /* Report error when not all code paths in function return a value. */
         // "noFallthroughCasesInSwitch": true, /* Report errors for fallthrough cases in switch statement. */
         // "noUnusedParameters": true,  /* Report errors on unused parameters. */
