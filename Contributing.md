@@ -2,7 +2,7 @@
 
 :sparkles: Добро пожаловать и благодарю вас за ваш интерес к участию! :sparkles:
 
-Пожалуйста, обратите внимание, что у нас есть [code of conduct](https://github.com/YukiiroRu/renpy_language_vscode_RU/blob/main/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
+Пожалуйста, обратите внимание, что у нас есть [норм поведения](https://github.com/YukiiroRu/renpy_language_vscode_RU/blob/main/CODE_OF_CONDUCT.md), пожалуйста, следуйте ему во всех ваших взаимодействиях с проектом.
 
 ## Reporting bugs or proposing features
 
