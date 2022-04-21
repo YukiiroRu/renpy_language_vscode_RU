@@ -14,4 +14,4 @@
 
 ## Процесс запроса на извлечение.
 
-If you want to add new features, please make sure to discuss it in an issue.
+Если вы хотите добавить новые функции, пожалуйста, обязательно обсудите это в выпуске.
