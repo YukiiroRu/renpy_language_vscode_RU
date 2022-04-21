@@ -3,9 +3,9 @@
   "displayName": "Ren'Py Language",
   "description": "Добавляет расширенную поддержку языка программирования Ren'Py в код Visual Studio."
   "version": "1.4.22",
-  "publisher": "LuqueDaniel",
+  "publisher": "YukiiroRu",
   "license": "MIT",
-  "homepage": "https://github.com/LuqueDaniel/vscode-language-renpy",
+  "homepage": "",
   "repository": {
     "type": "git",
     "url": "https://github.com/LuqueDaniel/vscode-language-renpy"
