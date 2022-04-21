@@ -8,6 +8,7 @@
 
  _Преобразованный из_ [Ren'Py языковая поддержка в редакторе Atom.](https://github.com/renpy/language-renpy) :smile::thumbsup:
 
+ Не стесняйтесь [способствовать](https://github.com/LuqueDaniel/vscode-language-renpy/blob/master/Contributing.md), разветвите это и отправьте запрос, на извлечение. :smile::thumbsup:
 ## Интересное.
 
 _Примеры языка Ren'Py в редакторе [Visual Studio Code.](https://code.visualstudio.com/)_
