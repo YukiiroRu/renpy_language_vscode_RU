@@ -92,7 +92,7 @@
           "renpy.watchFoldersForChanges": {
             "type": "boolean",
             "default": false,
-            "description": "Watch resource folders, such as images and audio, for file changes. (This may not be fully supported on all platforms.)"
+            "description": "Следите за папками ресурсов, такими, как изображения и аудио, на предмет изменений файлов. (Возможно, это не полностью поддерживается на всех платформах.)"
           },
           "renpy.showAutomaticImagesInCompletion": {
             "type": "boolean",
