@@ -107,12 +107,12 @@
           "renpy.warnOnUndefinedPersistents": {
             "type": "boolean",
             "default": true,
-            "description": "Включить неопределенные постоянные предупреждения. Если установлен флажок (true), постоянные переменные будут помечены предупреждением в редакторе, если они не были заданы / определены по умолчанию."
+            "description": "Включить неопределённые постоянные предупреждения. Если установлен флажок (true), постоянные переменные будут помечены предупреждением в редакторе, если они не были заданы / определены по умолчанию."
           },
           "renpy.warnOnUndefinedStoreVariables": {
             "type": "boolean",
             "default": true,
-            "description": "Enable undefined store variable warnings. If checked (true), store variables will be marked with a warning in the editor if they haven't been defaulted/defined."
+            "description": "Включить предупреждения о неопределённых переменных хранилища. Если установлен флажок (true), переменные хранилища будут помечены предупреждением в редакторе, если они не были заданы / определены по умолчанию."
           },
           "renpy.warnOnReservedVariableNames": {
             "type": "boolean",
