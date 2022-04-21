@@ -1,6 +1,6 @@
-# Contributing
+# Способствующий
 
-:sparkles: Welcome, and thank you for your interest in contributing! :sparkles:
+:sparkles: Добро пожаловать и благодарю вас за ваш интерес к участию! :sparkles:
 
 Please note we have a [code of conduct](https://github.com/YukiiroRu/renpy_language_vscode_RU/blob/main/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
 
