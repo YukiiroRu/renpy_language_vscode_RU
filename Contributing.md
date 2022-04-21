@@ -4,9 +4,9 @@
 
 Пожалуйста, обратите внимание, что у нас есть [нормы поведения](https://github.com/YukiiroRu/renpy_language_vscode_RU/blob/main/CODE_OF_CONDUCT.md), пожалуйста, следуйте ему во всех ваших взаимодействиях с проектом.
 
-## Reporting bugs or proposing features
+## Сообщать об ошибках или предлагать новые функции.
 
-Open a new issue for each bug or feature you want to propose.
+Откройте новую проблему для каждой ошибки или функции, которые вы хотите предложить.
 
 1. Before reporting a bug :mag: **[check](https://github.com/YukiiroRu/renpy_language_vscode_RU/issues)** if it has
    already been reported.
