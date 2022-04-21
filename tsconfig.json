@@ -12,7 +12,7 @@
         "strict": true, /* Включить все параметры строгой проверки типов. */
         /* Дополнительные проверки. */
         "noUnusedLocals": true /* Сообщать об ошибках, в неиспользуемых локальных сетях. */
-        // "noImplicitReturns": true, /* Report error when not all code paths in function return a value. */
+        // "noImplicitReturns": true, /* Сообщить об ошибке, когда не все пути кода в функции возвращают значение. */
         // "noFallthroughCasesInSwitch": true, /* Report errors for fallthrough cases in switch statement. */
         // "noUnusedParameters": true,  /* Report errors on unused parameters. */
     },
