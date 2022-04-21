@@ -107,7 +107,7 @@
           "renpy.warnOnUndefinedPersistents": {
             "type": "boolean",
             "default": true,
-            "description": "Enable undefined persistent warnings. If checked (true), persistent variables will be marked with a warning in the editor if they haven't been defaulted/defined."
+            "description": "Включить неопределенные постоянные предупреждения. Если установлен флажок (true), постоянные переменные будут помечены предупреждением в редакторе, если они не были заданы / определены по умолчанию."
           },
           "renpy.warnOnUndefinedStoreVariables": {
             "type": "boolean",
