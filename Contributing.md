@@ -2,7 +2,7 @@
 
 :sparkles: Welcome, and thank you for your interest in contributing! :sparkles:
 
-Please note we have a [code of conduct](https://github.com/LuqueDaniel/vscode-language-renpy/blob/master/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
+Please note we have a [code of conduct](https://github.com/YukiiroRu/renpy_language_vscode_RU/blob/main/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
 
 ## Reporting bugs or proposing features
 
