@@ -8,7 +8,7 @@
 
  _Преобразованный из_ [Ren'Py языковая поддержка в редакторе Atom.](https://github.com/renpy/language-renpy) :smile::thumbsup:
 
- Не стесняйтесь [способствовать](https://github.com/YukiiroRu/renpy_language_vscode_RU/blob/main/Contributing.md), разветвите это и отправьте запрос, на извлечение. :smile::thumbsup:
+ Не стесняйтесь [участвовать](https://github.com/YukiiroRu/renpy_language_vscode_RU/blob/main/Contributing.md), разветвите это и отправьте запрос, на извлечение. :smile::thumbsup:
 
 ## Интересное.
 
