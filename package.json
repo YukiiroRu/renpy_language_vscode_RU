@@ -117,7 +117,7 @@
           "renpy.warnOnReservedVariableNames": {
             "type": "boolean",
             "default": true,
-            "description": "Enable reserved variable warnings. If checked (true), variables will be marked with an error in the editor if they are in the list of names reserved by Python."
+            "description": "Включить предупреждения о зарезервированных переменных. Если установлен флажок (true), переменные будут помечены ошибкой в редакторе, если они находятся в списке имён, зарезервированных Python."
           },
           "renpy.warnOnInvalidVariableNames": {
             "type": "string",
