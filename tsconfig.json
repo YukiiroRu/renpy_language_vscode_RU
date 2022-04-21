@@ -8,9 +8,9 @@
         ],
         "sourceMap": true,
         "rootDir": "src",
-        /* Опция Строгой Проверки Типов */
-        "strict": true,   /* enable all strict type-checking options */
-        /* Additional Checks */
+        /* Опция Строгой Проверки Типов. */
+        "strict": true, /* Включить все параметры строгой проверки типов. */
+        /* Дополнительные проверки. */
         "noUnusedLocals": true /* Report errors on unused locals. */
         // "noImplicitReturns": true, /* Report error when not all code paths in function return a value. */
         // "noFallthroughCasesInSwitch": true, /* Report errors for fallthrough cases in switch statement. */
