@@ -65,5 +65,5 @@
 Настоящий Кодекс поведения адаптирован из [Соглашения с участниками](https://www.contributor-covenant.org/) версия 1.4,
 доступного по адресу [версия](http://contributor-covenant.org/version/1/4)
 
-[Домашняя страница]: http://contributor-covenant.org
+[Домашняя страница](http://contributor-covenant.org)
 [Версия]: http://contributor-covenant.org/version/1/4/
