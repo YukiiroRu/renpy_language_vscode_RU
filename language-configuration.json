@@ -1,9 +1,9 @@
 {
     "comments": {
-        // symbol used for single line comment. Remove this entry if your language does not support line comments
+        // Символ, используемый для однострочного комментария. Удалите эту запись, если ваш язык не поддерживает комментарии к строкам.
         "lineComment": "#"
     },
-    // symbols used as brackets
+    // Символы, используемые в качестве скобок
     "brackets": [
         ["{", "}"],
         ["[", "]"],
