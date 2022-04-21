@@ -11,7 +11,7 @@ class Editor(renpy.editor.Editor):
 
     def get_code(self):
         """
-        Returns the path to the code executable, if None.
+        Возвращает путь к исполняемому коду, если его нет.
         """
 
         DIR = os.path.abspath(os.path.dirname(__file__))
