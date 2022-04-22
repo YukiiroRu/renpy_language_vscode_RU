@@ -2,7 +2,7 @@
     "Label": {
         "prefix": "label",
         "body": "label ${1:label_name}:\n\t${2:}",
-        "description": "Create a new label."
+        "description": "Создание новой метки."
       },
       "Jump": {
         "prefix": "jump",
