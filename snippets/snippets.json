@@ -2,7 +2,7 @@
     "Label": {
         "prefix": "label",
         "body": "label ${1:label_name}:\n\t${2:}",
-        "description": "Создание новой метки."
+        "description": "Создание нового label."
       },
       "Jump": {
         "prefix": "jump",
@@ -12,7 +12,7 @@
       "Call": {
         "prefix": "call",
         "body": "call ${1:label_name}",
-        "description": "Вызlabel."
+        "description": "Вызов нужного label."
       },
       "Pause": {
         "prefix": "pause",
