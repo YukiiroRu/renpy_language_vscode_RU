@@ -4,6 +4,9 @@
 
  ![renpy-logo](https://github.com/YukiiroRu/Miracle_in_the_form/blob/main/dev_files/logo%20base.png)
 
+ - [![GitHub last commit](https://img.shields.io/github/last-commit/YukiiroRu/renpy_language_vscode_RU?label=%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B5%D0%B5%20%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5&style=for-the-badge)](https://github.com/YukiiroRu/renpy_language_vscode_RU/commits/master)
+ - [![GitHub](https://img.shields.io/github/license/YukiiroRu/renpy_language_vscode_RU?label=%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F&style=for-the-badge)](LICENSE)
+
 Добавляет подсветку синтаксиса и фрагменты кода для [Ren'Py](https://www.renpy.org/) в редактор.
 
  _Преобразованный из_ [Ren'Py языковая поддержка в редакторе Atom.](https://github.com/renpy/language-renpy) :smile::thumbsup:
