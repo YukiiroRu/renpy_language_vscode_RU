@@ -17,7 +17,7 @@
       "Pause": {
         "prefix": "pause",
         "body": "with Pause($1)\n$2",
-        "description": "Wait a few seconds before showing the next screen."
+        "description": "Подождите несколько секунд, прежде чем показывать следующий экран."
       },
       "One Line Python": {
         "prefix": "p1",
