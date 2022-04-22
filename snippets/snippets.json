@@ -7,12 +7,12 @@
       "Jump": {
         "prefix": "jump",
         "body": "jump ${1:label_name}",
-        "description": "Jump to a label."
+        "description": "Переход на нужный label."
       },
       "Call": {
         "prefix": "call",
         "body": "call ${1:label_name}",
-        "description": "Call a label."
+        "description": "Вызlabel."
       },
       "Pause": {
         "prefix": "pause",
