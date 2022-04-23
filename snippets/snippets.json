@@ -52,7 +52,7 @@
       "PreDefined Transitions": {
         "prefix": "transitions",
         "body": "${1:fade, dissolve, pixellate, move,\nmoveinright (Тоже: moveinleft, moveintop, moveinbottom),\nmoveoutright (Тоже: moveoutleft, moveouttop, moveoutbottom),\nease (Тоже: easeinright, easeinleft, easeintop, easeinbottom, easeoutright, easeoutleft, easeouttop, easeoutbottom),\nzoomin, zoomout, zoominout, vpunch, hpunch, blinds, squares,\nwipeleft (Тоже: wiperight, wipeup, wipedown),\nslideleft (Тоже:  slideright, slideup, slidedown),\nslideawayleft (Тоже: slideawayright, slideawayup, slideawaydown),\nirisin, irisout.}",
-        "description": "Predefined Transitions"
+        "description": "Предопределённые переходы."
       },
       "Create MultiPersistent": {
         "prefix": "multipersist",
