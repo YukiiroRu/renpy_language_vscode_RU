@@ -21,7 +21,7 @@
       },
       "One Line Python": {
         "prefix": "p1",
-        "body": "$ ${1:#Python statements}",
+        "body": "$ ${1:#Инструкция python}",
         "description": "Выполнение одной строки Python."
       },
       "Python in Block": {
