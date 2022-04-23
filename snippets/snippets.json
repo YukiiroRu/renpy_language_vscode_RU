@@ -21,7 +21,7 @@
       },
       "One Line Python": {
         "prefix": "p1",
-        "body": "$ ${1:#Инструкция python}",
+        "body": "$ ${1:#Инструкция python.}",
         "description": "Выполнение одной строки Python."
       },
       "Python in Block": {
@@ -31,7 +31,7 @@
       },
       "Init Block": {
         "prefix": "init",
-        "body": "init ${1:#priority number}:\n\t${2:}",
+        "body": "init ${1:#Номер приоритета.}:\n\t${2:}",
         "description": "Run code at initialization time."
       },
       "Init with Python Block": {
