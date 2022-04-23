@@ -47,7 +47,7 @@
       "Create a Character (NVL)": {
         "prefix": "charnvl",
         "body": "define ${1:Имя персонажа} = Character(None, kind=nvl)\n${2:}",
-        "description": "Создание нового (NVL) пе"
+        "description": "Создание нового (NVL) персонажа."
       },
       "PreDefined Transitions": {
         "prefix": "transitions",
