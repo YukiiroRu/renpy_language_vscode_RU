@@ -41,7 +41,7 @@
       },
       "Create a Character": {
         "prefix": "char",
-        "body": "define ${1:character_name} = Character(\"${2:displayable name}\")",
+        "body": "define ${1:Имя персонажа} = Character(\"${2:disp}\")",
         "description": "Create a Character"
       },
       "Create a Character (NVL)": {
