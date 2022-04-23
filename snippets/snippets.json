@@ -37,7 +37,7 @@
       "Init with Python Block": {
         "prefix": "inipy",
         "body": "init ${1:#Номер приоритета} python:\n\t${2:}",
-        "description": "init block with a Python block"
+        "description": "Блок инициализации с помощью блока python."
       },
       "Create a Character": {
         "prefix": "char",
