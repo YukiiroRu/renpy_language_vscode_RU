@@ -56,8 +56,8 @@
       },
       "Create MultiPersistent": {
         "prefix": "multipersist",
-        "body": "${1:persistent_name} = MultiPersistent(\"${2:persistent_filename}\")",
-        "description": "Create MultiPersistent"
+        "body": "${1:Постоянное имя} = MultiPersistent(\"${2:Постоянное имя файла.}\")",
+        "description": "Создание нескольких постоянных."
       },
       "Variable(Create/Modify)": {
         "prefix": "var",
