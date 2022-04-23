@@ -27,7 +27,7 @@
       "Python in Block": {
         "prefix": "py",
         "body": "python:\n\t${1:}",
-        "description": "The python statement takes a block of python code."
+        "description": "Оператор python принимает блок кода python."
       },
       "Init Block": {
         "prefix": "init",
