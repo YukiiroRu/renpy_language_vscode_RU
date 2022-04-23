@@ -1,17 +1,17 @@
 {
     "Label": {
         "prefix": "label",
-        "body": "label ${1:label_name}:\n\t${2:}",
+        "body": "label ${1:label_nam}:\n\t${2:}",
         "description": "Создание нового label."
       },
       "Jump": {
         "prefix": "jump",
-        "body": "jump ${1:label_name}",
+        "body": "jump ${1:имя_label}",
         "description": "Переход на нужный label."
       },
       "Call": {
         "prefix": "call",
-        "body": "call ${1:label_name}",
+        "body": "call ${1:имя_label}",
         "description": "Вызов нужного label."
       },
       "Pause": {
